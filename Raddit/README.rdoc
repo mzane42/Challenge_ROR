@@ -1,28 +1,10 @@
-== README
+== README====
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I built a link aggregator site, similar to Reddit, where a user can sign up, submit a link, as well as comment and vote up or down on link submissions.
 
-Things you may want to cover:
+Overview:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Sign up / Sign in & Out
+Submit a link with a Title & URL
+Vote up or down on a link
+Comment on links submissions
